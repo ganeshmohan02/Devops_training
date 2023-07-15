@@ -1,1 +1,1 @@
- added second line
+This is 7th file
